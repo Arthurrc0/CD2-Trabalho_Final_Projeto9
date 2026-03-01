@@ -23,7 +23,7 @@
 - **Python 3.8+**
 - **pip** (gerenciador de pacotes Python)
 - **Jupyter Notebook** ou **Jupyter Lab** (para executar o notebook)
-- **~6GB de espaço em disco** (3GB compactado + 3GB descompactado)
+- **~4GB de espaço em disco** (3GB descompactado + 250MB compactado)
 - Arquivo de dados: `PNADC_2024_trimestre4_20251014.zip` (baixar do link acima, precisa descompactar)
 
 ---
