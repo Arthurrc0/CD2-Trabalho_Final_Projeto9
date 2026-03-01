@@ -110,7 +110,7 @@ uploaded = files.upload()  # Selecione o arquivo .zip ou .txt
 
 ### Problema: Sem espaço em disco para descompactar
 **Solução:**
-- O arquivo precisa de ~6GB total (3GB + 3GB)
+- O arquivo precisa de ~4GB total (3GB descompactado + ~250MB zipado)
 - Libere espaço ou use outro disco
 - Se usar um SSD com espaço limitado, considere usar um disco externo
 
